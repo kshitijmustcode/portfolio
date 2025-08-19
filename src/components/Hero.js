@@ -80,7 +80,7 @@ const Hero = () => {
         transition={{ duration: 1, delay: 1.2 }}
         className="hero-social"
       >
-        <a href="https://github.com/Kshitij27Kumar" target="_blank" rel="noopener noreferrer" className="social-link">
+        <a href="https://github.com/kshitijmustcode" target="_blank" rel="noopener noreferrer" className="social-link">
           <FaGithub size={24} />
         </a>
         <a href="https://linkedin.com/in/kshitij2703" target="_blank" rel="noopener noreferrer" className="social-link">

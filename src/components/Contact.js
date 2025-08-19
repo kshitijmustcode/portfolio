@@ -63,7 +63,7 @@ const Contact = () => {
     {
       icon: <FaGithub />,
       name: 'GitHub',
-      url: 'https://github.com/Kshitij27Kumar',
+      url: 'https://github.com/kshitijmustcode',
       color: '#333'
     },
     {

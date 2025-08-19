@@ -11,7 +11,7 @@ const Projects = () => {
       description: 'A house marketplace app where 20k authenticated users per month can upload details of their houses for sale or rent. Features Leaflet map integration and geocoding API.',
       category: 'fullstack',
       technologies: ['React.js', 'CSS', 'Firebase', 'Firestore', 'Leaflet Maps', 'Geocoding API', 'Vercel'],
-      github: 'https://github.com/Kshitij27Kumar/House-E-Plaza',
+      github: 'https://github.com/kshitijmustcode/House-E-Plaza',
       live: 'https://house-e-plaza.vercel.app/',
       features: ['User Authentication', 'House Listings', 'Interactive Maps', 'Geolocation', 'Responsive Design', 'Firebase Backend'],
       icon: <FaCode />,
@@ -23,7 +23,7 @@ const Projects = () => {
       description: 'Research project on determining stock price direction using CNN on 1-D time series data encoded as 2-D images. Achieved up to 59.9% accuracy.',
       category: 'ml',
       technologies: ['Python', 'TensorFlow', 'Pandas', 'NumPy', 'OpenCV', 'CNN', 'Time Series Analysis'],
-      github: 'https://github.com/Kshitij27Kumar/Stock-Market-Direction-Analysis',
+      github: 'https://github.com/kshitijmustcode/Stock-Market-Direction-Analysis',
       features: ['Deep Learning', 'CNN Architecture', 'Image Processing', 'Stock Analysis', 'Data Visualization', 'Research Paper'],
       icon: <FaMobile />,
       hasLiveDemo: false
@@ -109,7 +109,7 @@ const Projects = () => {
         >
           <h3>Want to see more?</h3>
           <p>Check out my GitHub for additional projects and contributions</p>
-          <a href="https://github.com/Kshitij27Kumar" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+          <a href="https://github.com/kshitijmustcode" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
             <FaGithub /> View GitHub
           </a>
         </motion.div>
